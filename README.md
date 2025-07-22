@@ -27,4 +27,4 @@ Development Environment: Linux-based systems
 
 Run:
 1)make
-2)./main
+2)make run
